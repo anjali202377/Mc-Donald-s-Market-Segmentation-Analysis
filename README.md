@@ -1,2 +1,3 @@
 # Mc-Donald-s-Market-Segmentation-Analysis
 Mc Donald's Market Segmentation Analysis-
+McDonald's market segmentation strategy is a multifaceted approach that considers demographic, geographic, psychographic, behavioral, technological, and cultural factors. By tailoring its products and marketing campaigns to meet the needs and preferences of different customer segments, McDonald's enhances its appeal and sustains its global market leadership. This segmentation strategy not only drives customer satisfaction and loyalty but also enables McDonald's to compete effectively in various markets worldwide.
